@@ -31,6 +31,11 @@ public class TestStudent
 		assertTrue(gregId.equals("0000002"));
 	}
 	
+	/**
+	 * testFirstName checks if the correct first name is returned
+	 * for the student
+	 */
+	
 	@Test
 	public void testFirstName()
 	{
